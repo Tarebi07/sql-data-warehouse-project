@@ -1,5 +1,9 @@
+## 👋 Welcome  
+Welcome to my data warehousing project! This project showcases my journey as an aspiring Junior Data Engineer, where I apply SQL skills to build a simple and modern data warehouse for analysis and reporting. 
+
 # sql-data-warehouse-project
 Building a modern data warehouse with SQL server, including ETL processes, data modelling and analytics
+
 
 # Modern SQL Data Warehousing Project  
 
